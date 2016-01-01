@@ -2,6 +2,8 @@
 .less styles for atom
 
 
+##### Works better with Atom Dark or Native-UI theme https://github.com/fv0/native-ui
+
 ### Instructions
 
 1. Go to desktop & hit shift+command+G
