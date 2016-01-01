@@ -1,6 +1,4 @@
-# lemongrass-atom-theme
-.less styles for atom
-
+# Atom.io editor minimalistic theme
 
 ##### Works better with Atom Dark or Native-UI theme https://github.com/fv0/native-ui
 
