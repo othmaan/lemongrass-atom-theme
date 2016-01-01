@@ -1,0 +1,45 @@
+.tree-view-resizer .tree-view-scroller .tree-view {
+    background-color: #47484B;
+}
+
+atom-text-editor::shadow .selection .region {
+background-color: LightGoldenRodYellow; //#67A5F7
+}
+
+.list-group li:not(.list-nested-item), .list-tree li:not(.list-nested-item), .list-group li.list-nested-item > .list-item, .list-tree li.list-nested-item > .list-item,
+.list-tree li.file:not(.list-nested-item).status-modified,
+.list-tree li.list-nested-item.selected > .list-item {
+  color: white;
+}
+
+
+.tree-view-open-files {
+  background-color: rgba(21, 122, 251, 0.6);
+}
+
+// pane
+.tree-view-open-files > .list-tree {
+    // background-color: gray;
+    font-size: 125%;
+    margin: 0px 0px 20px 0px;
+}
+
+// pane tab
+.list-group .selected:before, .list-tree .selected:before {
+    height: 30px;
+    background-color: #47484B;
+}
+
+// pane text
+.list-group .selected > *, .list-tree .selected > * {
+    color: orange;
+}
+
+.atom-panel.modal .select-list ol.list-group li.two-lines .primary-line,
+.overlay .select-list ol.list-group li.two-lines .primary-line {
+  color: #47484B;
+}
+
+.results-view li.path.list-nested-item {
+  background-color: gray;
+}
