@@ -2,6 +2,10 @@
 
 ##### Works better with Atom Dark or Native-UI theme https://github.com/fv0/native-ui
 
+
+
+[[https://github.com/othmaan/minimal-gray/blob/master/minimal-gray.png|alt=octocat]]
+
 ### Instructions
 
 1. Go to desktop & hit shift+command+G
