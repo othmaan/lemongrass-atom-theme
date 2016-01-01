@@ -3,8 +3,8 @@
 ##### Works better with Atom Dark or Native-UI theme https://github.com/fv0/native-ui
 
 
+![alt tag](https://github.com/othmaan/minimal-gray/blob/master/minimal-gray.png)
 
-[[https://github.com/othmaan/minimal-gray/blob/master/minimal-gray.png|alt=octocat]]
 
 ### Instructions
 
