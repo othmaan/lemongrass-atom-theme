@@ -4,5 +4,6 @@
 
 ### Instructions
 
-1. Open /Users/<user_name>/.atom using shift+command+G
-2. Replace styles.less with file from repo
+1. Go to desktop & hit shift+command+G
+2. Write down /Users/YOUR_USER_NAME/.atom & press enter 
+3. Replace styles.less with file from repo
